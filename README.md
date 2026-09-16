@@ -86,8 +86,8 @@ This tool mitigates the symptom; it does not fix the driver itself.
 
 ---
 
-## Licence
+## License
 
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
-You are free to use, modify and distribute this software, but if you distribute a modified version, you must make the corresponding source code available under the GPL-3.0 terms.
-See [LICENSE](LICENSE) for the full text.
+This project is licensed under the [MIT License](https://opensource.org/license/mit).
+You may freely use, modify, and distribute this software, including for commercial purposes; the main requirement is that the original copyright notice and the MIT License text be retained in all copies or distributions.
+See [LICENSE](../LICENSE) for the full license text.
