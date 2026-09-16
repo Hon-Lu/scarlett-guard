@@ -88,6 +88,6 @@
 
 ## 授權
 
-本專案採用 GNU General Public License v3.0 (GPL-3.0) 授權。
-你可以自由使用、修改與散布本軟體，但若散布修改後的版本，必須依照 GPL-3.0 授權條款公開相應原始碼。
-詳細條款請參閱 [LICENSE](LICENSE)。
+本專案採用 [MIT License](https://opensource.org/license/mit) 授權。  
+你可以自由使用、修改、散布本軟體，亦可用於商業用途；主要要求是在複製或散布時保留原始的版權聲明與 MIT 授權條款。  
+完整授權內容請參閱 [LICENSE](LICENSE)。
