@@ -17,7 +17,7 @@ from typing import Any, Callable
 
 from .paths import app_version
 
-GITHUB_REPO = "asd880921/scarlett-guard"
+GITHUB_REPO = "Hon-Lu/scarlett-guard"
 RELEASES_PAGE = f"https://github.com/{GITHUB_REPO}/releases/latest"
 _LATEST_API = f"https://api.github.com/repos/{GITHUB_REPO}/releases/latest"
 

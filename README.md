@@ -4,12 +4,12 @@
   <h1>Scarlett Guard</h1>
   <p>One-click switching between Everyday and Studio mode on a Focusrite Scarlett, so driver failures stop affecting your day-to-day use.</p>
   <p>
-    <a href="https://github.com/asd880921/scarlett-guard/releases/latest/download/scarlett-guard.zip">
-      <img src="https://shieldcn.dev/github/downloads-asset/asd880921/scarlett-guard/scarlett-guard.zip.svg?style=for-the-badge&label=downloads&labelColor=24292f&color=2ea44f" alt="Downloads" />
+    <a href="https://github.com/Hon-Lu/scarlett-guard/releases/latest/download/scarlett-guard.zip">
+      <img src="https://shieldcn.dev/github/downloads-asset/Hon-Lu/scarlett-guard/scarlett-guard.zip.svg?style=for-the-badge&label=downloads&labelColor=24292f&color=2ea44f" alt="Downloads" />
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/github/v/release/asd880921/scarlett-guard?style=for-the-badge&label=latest%20release" alt="Latest release" />
+    <img src="https://img.shields.io/github/v/release/Hon-Lu/scarlett-guard?style=for-the-badge&label=latest%20release" alt="Latest release" />
     <img src="https://img.shields.io/badge/license-MIT-22C55E?style=for-the-badge" alt="License MIT" />
   </p>
 </div>
@@ -41,7 +41,7 @@ System volume, microphone and every app's volume, all adjustable without opening
 
 ## Install
 
-[Download `scarlett-guard.zip`](https://github.com/asd880921/scarlett-guard/releases/latest/download/scarlett-guard.zip), unzip it, then right-click `Scarlett Guard.exe` and **Run as administrator**. No Python needed.
+[Download `scarlett-guard.zip`](https://github.com/Hon-Lu/scarlett-guard/releases/latest/download/scarlett-guard.zip), unzip it, then right-click `Scarlett Guard.exe` and **Run as administrator**. No Python needed.
 
 > Unzip first. Don't run it from inside the archive.
 

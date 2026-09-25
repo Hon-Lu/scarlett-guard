@@ -4,12 +4,12 @@
   <h1>Scarlett Guard</h1>
   <p>一鍵切換 Focusrite Scarlett 日常 / 錄音模式，讓日常使用不再受驅動異常影響。</p>
   <p>
-    <a href="https://github.com/asd880921/scarlett-guard/releases/latest/download/scarlett-guard.zip">
-      <img src="https://shieldcn.dev/github/downloads-asset/asd880921/scarlett-guard/scarlett-guard.zip.svg?style=for-the-badge&label=downloads&labelColor=24292f&color=2ea44f" alt="Downloads" />
+    <a href="https://github.com/Hon-Lu/scarlett-guard/releases/latest/download/scarlett-guard.zip">
+      <img src="https://shieldcn.dev/github/downloads-asset/Hon-Lu/scarlett-guard/scarlett-guard.zip.svg?style=for-the-badge&label=downloads&labelColor=24292f&color=2ea44f" alt="Downloads" />
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/github/v/release/asd880921/scarlett-guard?style=for-the-badge&label=latest%20release" alt="Latest release" />
+    <img src="https://img.shields.io/github/v/release/Hon-Lu/scarlett-guard?style=for-the-badge&label=latest%20release" alt="Latest release" />
     <img src="https://img.shields.io/badge/license-MIT-22C55E?style=for-the-badge" alt="License MIT" />
   </p>
 </div>
@@ -41,7 +41,7 @@
 
 ## 安裝
 
-[下載 `scarlett-guard.zip`](https://github.com/asd880921/scarlett-guard/releases/latest/download/scarlett-guard.zip)，解壓縮，對 `Scarlett Guard.exe` 按右鍵**以系統管理員身分執行**。不需要裝 Python。
+[下載 `scarlett-guard.zip`](https://github.com/Hon-Lu/scarlett-guard/releases/latest/download/scarlett-guard.zip)，解壓縮，對 `Scarlett Guard.exe` 按右鍵**以系統管理員身分執行**。不需要裝 Python。
 
 > 請先解壓縮再執行，不要直接在壓縮檔裡點開。
 
